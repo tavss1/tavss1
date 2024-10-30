@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-🌱 Studying about DevOps on database and data science.
+🌱 Studying about Data science.
 </p>
 
 <p align="left">
