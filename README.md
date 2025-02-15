@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-🧨 I'm currently learning Python, Java, and mySQL.
+🧨 I'm currently learning Python, Java, HTML and CSS.
 </p>
 
 ## My Skills
