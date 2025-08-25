@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-🌱 Studying about Data science.
+🌱 Studying about Data Science focuses at AI Agents, LLMs.
 </p>
 
 <p align="left">
