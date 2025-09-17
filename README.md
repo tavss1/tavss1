@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-🌱 Studying about Data Science focuses at AI Agents, LLMs and Web Development focuses at PHP, JavaScript, HTML & CSS.
+🌱 Studying about Data Science focus on AI Agents, LLMs and Web Development focus on PHP, JavaScript, HTML & CSS.
 </p>
 
 <p align="left">
