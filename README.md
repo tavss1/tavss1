@@ -29,7 +29,3 @@
   </div>
   
 ##
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=tavss1&theme=tokyonight&show_icons=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavss1&theme=tokyonight"/>
-</div>
