@@ -10,24 +10,24 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: tavss1
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "Bruno Tavares"
+  tagline: "Full Stack Developer & Data Analyst"
+  location: "São Paulo, SP"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Computer Science student and versatile developer bridging the gap between Full Stack, DevOps, and Data.
+    Experienced in orchestrating infrastructure (Docker/AWS) and building accessible web applications.
+    Passionate about leveraging AI and data to solve real-world problems.
+  philosophy: '"Technology is most powerful when it is accessible, resilient, and solves real human problems."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "brunozzt99@outlook.com"
+  linkedin: "https://www.linkedin.com/in/bruno-tavaress/"
+  website: "https://github.com/tavss1"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -36,20 +36,20 @@ galaxy_arms:
   - name: "Frontend"
     color: "dendrite_violet"
     items:
-      - "TypeScript"
+      - "Angular"
       - "React"
-      - "CSS"
+      - "HTML & CSS"
   - name: "Backend"
     color: "synapse_cyan"
     items:
       - "Python"
       - "Node.js"
-      - "PostgreSQL"
+      - "PHP"
   - name: "DevOps"
     color: "axon_amber"
     items:
       - "Docker"
-      - "GitHub Actions"
+      - "Kubernetes"
       - "AWS"
 
 # Featured projects shown as constellation stars
@@ -58,12 +58,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "tavss1/Aconselhamento-Financeiro-com-uso-de-LLMs"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "Financial planner and organizer for academic students using AI Agents and LLMs."
+  - repo: "tavss1/workout-api"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "REST API for managing athletes, categories, and training centers, developed with FastAPI, SQLAlchemy Async, and PostgreSQL."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
@@ -82,15 +82,11 @@ theme:
 stats:
   metrics:
     - "commits"
-    - "stars"
-    - "prs"
-    - "issues"
     - "repos"
 
 # Language display settings
 languages:
   exclude:                     # Languages to hide from the telemetry chart
-    - "HTML"
     - "CSS"
     - "Shell"
     - "Makefile"
